@@ -1,6 +1,4 @@
 
-# CauseDB
-
 ![Logo](https://raw.githubusercontent.com/babymonie/sprintui/main/logo.png)
 
 A VDOM framework for lightweight web apps, ideal for simplicity. Fast as react, it excels for straightforward sites, offering a user-friendly approach
