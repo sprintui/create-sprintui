@@ -26,7 +26,7 @@ Install Sprint ui bootstrapper with npm
 
 
 ```bash
-  npm install sprintui -g
+  npm install create-sprintui -g
 ```
 
 
